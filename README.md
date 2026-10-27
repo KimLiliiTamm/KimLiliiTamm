@@ -11,6 +11,7 @@ RAG-grounded multi-agent debate system over 3M words of transcripts from 14 spea
 [Live viewer](https://kimliliitamm.github.io/masculinity-debate-viewer/) · [Thesis](https://thesis.cs.ut.ee/6323256b-94ce-47bb-b249-de86718304cc)
 
 > "Kim näitab, et sotsiaalteaduses on uus võimalus teha teistmoodi tööd."
+>
 > Daniel Vaarik, [Levila newsletter](https://www.levila.ee/tekstid/loe-meie-uudiskirja-uks-uudis/lootuskiired-tehisaru-stressi-vastu), May 2026
 
 **[Can LLMs Assess Personality? Validating Conversational AI for Trait Profiling](https://arxiv.org/abs/2602.15848)** · arXiv, 2026
